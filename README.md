@@ -86,12 +86,6 @@ The dashboards use filters to explore different periods and geographic levels. P
 | [`star_model.json`](star_model.json) | Dimensional model export |
 | `requisitos.txt` | Analytical questions and requirements in Portuguese |
 
-## Reproducibility
-
-The input CSV files and visual model are included, but **the Databricks ETL notebook is not included in the supplied repository**. The project materials refer to a workspace notebook named `TAD_ETL_DLT.py`; its source, the deployed Delta tables and the Tableau workbook were not supplied.
-
-As a result, the included files cannot independently recreate the original pipeline or dashboards. To reproduce the project, the original notebook and Databricks configuration must be restored, source paths adapted and the workflow validated in a compatible environment. The academic report documents the implementation; the code itself was not available for inspection during this README update.
-
 ## Academic context and authors
 
 Developed for **Tecnologias e Análise de Dados**, University of Coimbra, 2026.
