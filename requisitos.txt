@@ -1,0 +1,44 @@
+Período de análise:
+2014 a 2024, com granularidade mensal.
+
+Unidade geográfica (região):
+As análises serão realizadas considerando a hierarquia territorial NUTS 2013, permitindo exploração dos dados a diferentes níveis:
+
+NUTS II
+NUTS III
+Município
+
+A análise será feita de forma hierárquica, possibilitando operações de drill-down e roll-up, bem como filtragem por nível geográfico na ferramenta de visualização.
+
+Descritiva — O que aconteceu?
+
+D1. Como evoluiu o número de dormidas ao longo dos anos nas diferentes regiões?
+
+D2. Qual a capacidade de alojamento local por região, medida pela capacidade máxima de hóspedes (número de utentes registado nos alojamentos), e qual a sua proporção face à população residente?
+
+D3. Como se distribuem geograficamente a oferta de alojamento local e a procura turística no território nacional?
+
+
+Diagnóstica — Por que aconteceu?
+
+G1. Existe relação entre o crescimento da oferta de alojamento local e o aumento das dormidas? Essa relação varia consoante o tipo de alojamento?
+
+G2. Que regiões apresentam maior pressão turística (dormidas por habitante) e em quais essa procura não é acompanhada por uma oferta proporcional?
+
+G3. Quais regiões apresentam maior dinamismo de crescimento turístico ao longo do tempo?
+
+G4. Qual é o padrão sazonal das dormidas ao longo do ano em cada região?
+
+G5. Que regiões apresentam maior dependência sazonal da atividade turística?
+
+
+Preditiva — O que vai acontecer?
+
+P1. Qual a evolução prevista do número de dormidas por região (previsão mensal para 2025 e 2026)?
+
+
+Prescritiva — O que fazer?
+
+R1. Em que regiões deverá ser incentivado o crescimento da oferta de alojamento local para acompanhar a procura turística?
+
+R2. Que regiões apresentam desequilíbrios entre oferta e procura e poderão necessitar de medidas de regulação?
